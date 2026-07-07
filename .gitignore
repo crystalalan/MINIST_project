@@ -6,5 +6,6 @@ __pycache__/
 *.path
 *.pth
 *.pt
+!best.pt
 .vscode/
 .idea/
